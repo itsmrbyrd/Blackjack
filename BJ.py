@@ -1,3 +1,6 @@
+# Just a simple blackjack sript
+#Just run and after the game is over you will have to restart
+# Gotta add a way to give an option to restart the game afterwards
 import random
 
 class Card:
